@@ -1,0 +1,97 @@
+.nav-bg-color {
+	background: #ffffff;
+}#nav-logo-menu-btn .nav-bg {
+	background: #ffffff;
+	opacity: 1;
+}
+#header-center-logo-slogan-img .bg {
+	background-image: url('../images/polyana.svg');
+	background-size: contain;
+	-webkit-background-size: contain;
+	background-repeat: no-repeat;
+	-webkit-background-repeat: no-repeat;
+	background-position: bottom center;
+	opacity: 1;
+}
+#header-center-logo-slogan-img {
+	background: #ffffff;
+}
+
+
+
+
+#desc-img-anim-text-btn {
+	background: linear-gradient(to bottom, #d4de4e, #ffffff);
+}
+
+#video-text {
+	background: #ffffff;
+}
+#gallery-fluid-carousel {
+	background: #ffffff;
+}
+#price-single .bg {
+	background-image: url('../images/bird22.png');
+	background-size: contain;
+	-webkit-background-size: contain;
+	background-repeat: no-repeat;
+	-webkit-background-repeat: no-repeat;
+	background-position: center center;
+	opacity: 1;
+}
+
+
+#price-single{
+	background: #ffffff;
+}
+
+#price-3col-3 {
+	background: #ffffff;
+}#subscribe-field-text {
+	background: #ffffff;
+}
+#testimonials-carousel-single-4 {
+	background: #ffffff;
+}
+
+
+span.icons-row [class^=icon-star] {
+    color: #ffd800;
+}
+
+
+
+#contact-text-map {
+	background: #ffffff;
+}
+#popup-form-halfbg--0 .half-container-right {
+	background-image: url('../images/pack.png');
+	background-size: contain;
+	-webkit-background-size: contain;
+	background-repeat: no-repeat;
+	-webkit-background-repeat: no-repeat;
+	background-position: center center;
+	opacity: 1;
+}
+
+#popup-center-icon-text .modal-content {
+	background: #eeeeee;
+}
+
+
+#footer-text-icon-social .bg {
+	background-image: url('../images/tree2.svg');
+	background-size: auto 70%;
+	-webkit-background-size: auto 70%;
+	background-repeat: no-repeat;
+	-webkit-background-repeat: no-repeat;
+	background-position: bottom left;
+	opacity: 1;
+}
+
+#footer-text-icon-social {
+	background: #d4de4e;
+}
+#footer-text-logo-btn {
+    background: #768190;
+}
